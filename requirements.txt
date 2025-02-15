@@ -5,3 +5,7 @@ matplotlib
 seaborn
 statsmodels
 ipywidgets
+sktime
+xgboost
+scikit-learn
+
